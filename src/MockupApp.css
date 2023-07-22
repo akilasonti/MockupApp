@@ -1,0 +1,188 @@
+.container{
+    height: 1000px;
+    width:100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.containerchild{
+    height: 700px;
+    width: 1200px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerchild2{
+    height: 600px;
+    width: 970px;
+    border: 3px solid lightgrey;
+    border-radius: 10px;
+    border-left: 5px solid lightgrey;
+    border-right: 5px solid lightgrey;
+    display: flex;
+}
+.containerchild3{
+    height: 600px;
+    width: 250px;
+    /* background-color: lightgrey; */
+    background-color: hsla(45,6%,39%,.3);
+    margin-left: 5px;
+}
+
+.butterflycss{
+    height: 40px;
+    padding-left: 10px;
+}
+
+.searchiconcss{
+    height: 10px;
+    width: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+    padding-left: 10px;
+
+}
+.imgparent{
+    display: flex;
+    flex-direction: column;  
+}
+.homeiconcss{
+    height: 25px;
+    width: 25px;
+    padding-top: 50px;
+    margin-left: 10px;   
+}
+.iconimg{
+    height: 15px;
+    width: 15px;
+    padding-top: 30px;
+    margin-left: 10px;
+}
+.iconsimg{
+    height: 15px;
+    width: 15px;
+    padding-top: 30px;
+    margin-left: 10px;
+}
+.humaniconcss{
+    height: 20px;
+    width: 20px;
+    padding-top: 30px;
+    margin-left: 10px;
+}
+
+.belliconcss{
+    height: 20px;
+    width: 20px;
+    padding-top: 230px;
+    margin-left: 10px;
+}
+
+.arrowiconcss{
+    height: 10px;
+    width: 15px;
+    padding-top: 40px;
+    margin-left: 10px;
+}
+.picturecss{
+    height: 50px;
+    width: 50px; 
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    background-size: cover;
+    text-align: center;
+    border-radius: 150px;
+    margin-right: 35rem;
+    cursor: pointer;
+    transition: 1s ease;
+   margin-top: 20px;
+   margin-left: 25px;
+
+}
+.spancss{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.welcss{
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.dayparentcss{
+    margin-left: 20px;
+
+}
+.daycss{
+    display: flex;
+    font-family:'Times New Roman', Times, serif
+}
+.btncss{
+    height: 40px;
+    width: 120px;
+    border-radius: 0.6rem;
+    background-color: blue;
+    font-size: 1.1rem;
+    color: aliceblue;
+    border-color: black;
+}
+.incssparent{
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+
+.inccss{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.spncss{
+    font-family:'Times New Roman', Times, serif
+
+}
+.goelcssparent{
+    display: flex;
+    flex-direction: column;
+}
+.goelcss{
+    font-family: 'Times New Roman', Times, serif;
+    display:flex ;
+    margin-left: 30px;
+
+}
+.prsntcss{
+    display: flex;
+    flex-direction: row;
+
+}
+.startingyearcss{
+    display: flex;
+    flex-direction: row;
+}
+.contributioncss{
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.employerparent{
+    display: flex;
+    font-size: 0.9rem;
+    font-family: 'Times New Roman', Times, serif;
+    /* padding-left: 40px; */
+    align-items: center;
+    justify-content: center;
+
+
+}
+.prgrscss{
+    height: 300px;
+    width: 500px;
+    /* background-color: white; */
+    border: 2px solid black;
+}
+
+
+
