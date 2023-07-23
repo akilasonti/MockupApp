@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MockupApp/static/css/main.83bf17db.css",
+    "main.js": "/MockupApp/static/js/main.508c1483.js",
+    "static/js/787.36e0486d.chunk.js": "/MockupApp/static/js/787.36e0486d.chunk.js",
+    "static/media/akila-jpeg.jpeg": "/MockupApp/static/media/akila-jpeg.caf276fe6fa5817a1cf2.jpeg",
+    "index.html": "/MockupApp/index.html",
+    "main.83bf17db.css.map": "/MockupApp/static/css/main.83bf17db.css.map",
+    "main.508c1483.js.map": "/MockupApp/static/js/main.508c1483.js.map",
+    "787.36e0486d.chunk.js.map": "/MockupApp/static/js/787.36e0486d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83bf17db.css",
+    "static/js/main.508c1483.js"
+  ]
+}
